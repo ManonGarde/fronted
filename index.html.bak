@@ -18,7 +18,7 @@
       src="polyfills-es2015.94d3ba46aae3a65c2d88.js"
       type="module"
     ></script>
-    <script src="main.js" type="module"></script>
+    <script src="main-es2015.bd44af9c4a4f085f43e6.js" type="module"></script>
     <script src="main-es5.bd44af9c4a4f085f43e6.js" nomodule defer></script>
   </body>
 </html>

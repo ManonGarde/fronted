@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "npx http-server . -p 4200 -P \"http://localhost:4200?\""
+    "start": "npx http-server . -p 80 -P \"http://localhost:80?\""
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^13.0.1"
+    "http-server": "^13.0.1",
+    "mongoose-unique-validator": "^3.0.0",
+    "multer": "^1.4.4"
   }
 }
